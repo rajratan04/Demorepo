@@ -1,13 +1,4 @@
 {
-
-
-
-
-  Raj
-
-
-@22   by Raj
-  
   "extends": ["@salesforce/eslint-config-lwc/recommended"],
   "overrides": [
     {
